@@ -1,0 +1,7 @@
+.vscode/settings.json
+main.py
+src/__pycache__/__init__.cpython-311.pyc
+src/__pycache__/game.cpython-311.pyc
+src/base_game_objects/__pycache__/base_game_objects.cpython-311.pyc
+src/game_objects/__pycache__/ball.cpython-311.pyc
+src/game_objects/__pycache__/paddle.cpython-311.pyc
